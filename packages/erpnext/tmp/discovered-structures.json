@@ -1,0 +1,17 @@
+{
+  "data": {},
+  "errors": {
+    "job-1": {
+      "source": "runtime",
+      "name": "RuntimeError",
+      "pos": {
+        "line": null,
+        "column": null
+      },
+      "step": "job-1",
+      "severity": "fail",
+      "subtype": "TypeError",
+      "message": "TypeError: fn is not a function"
+    }
+  }
+}

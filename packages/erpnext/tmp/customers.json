@@ -1,0 +1,40 @@
+{
+  "references": [
+    {}
+  ],
+  "data": [
+    {
+      "name": "Grant Plastics Ltd.",
+      "customer_name": "Grant Plastics Ltd.",
+      "customer_type": "Company",
+      "customer_group": "Demo Customer Group",
+      "territory": null,
+      "default_currency": null,
+      "mobile_no": null,
+      "email_id": null,
+      "disabled": 0
+    },
+    {
+      "name": "Palmer Productions Ltd.",
+      "customer_name": "Palmer Productions Ltd.",
+      "customer_type": "Company",
+      "customer_group": "Demo Customer Group",
+      "territory": null,
+      "default_currency": null,
+      "mobile_no": null,
+      "email_id": null,
+      "disabled": 0
+    },
+    {
+      "name": "West View Software Ltd.",
+      "customer_name": "West View Software Ltd.",
+      "customer_type": "Company",
+      "customer_group": "Demo Customer Group",
+      "territory": null,
+      "default_currency": null,
+      "mobile_no": null,
+      "email_id": null,
+      "disabled": 0
+    }
+  ]
+}

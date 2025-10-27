@@ -1,0 +1,37 @@
+{
+  "references": [
+    {}
+  ],
+  "data": [
+    {
+      "name": "SKU001",
+      "item_code": "SKU001",
+      "item_name": "T-shirt",
+      "item_group": "Demo Item Group",
+      "stock_uom": "Nos",
+      "standard_rate": 0,
+      "is_stock_item": 1,
+      "disabled": 0
+    },
+    {
+      "name": "SKU002",
+      "item_code": "SKU002",
+      "item_name": "Laptop",
+      "item_group": "Demo Item Group",
+      "stock_uom": "Nos",
+      "standard_rate": 0,
+      "is_stock_item": 1,
+      "disabled": 0
+    },
+    {
+      "name": "SKU003",
+      "item_code": "SKU003",
+      "item_name": "Book",
+      "item_group": "Demo Item Group",
+      "stock_uom": "Nos",
+      "standard_rate": 0,
+      "is_stock_item": 1,
+      "disabled": 0
+    }
+  ]
+}

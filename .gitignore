@@ -16,6 +16,8 @@ docs/
 
 # Working folders
 tmp/
+# Exception: Include ERPNext integration tests for demo branch
+!packages/erpnext/tmp/
 
 # Generated typings
 types/

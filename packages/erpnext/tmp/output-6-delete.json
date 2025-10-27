@@ -1,0 +1,31 @@
+{
+  "references": [
+    {
+      "newCustomer": {
+        "customer_name": "OpenFn Test Customer Ltd.",
+        "customer_type": "Company",
+        "customer_group": "Demo Customer Group"
+      },
+      "updateCustomerId": "OpenFn Test Customer Ltd.",
+      "updateCustomerData": {
+        "mobile_no": "+1234567890",
+        "email_id": "test@openfn.org"
+      },
+      "existingCustomerId": "Grant Plastics Ltd.",
+      "existingItemCode": "SKU001",
+      "existingSalesOrderId": "SAL-ORD-2025-00001",
+      "customerFilters": {
+        "customer_type": "Company"
+      },
+      "itemFilters": {
+        "item_group": "Demo Item Group"
+      },
+      "salesOrderFilters": {
+        "status": "Completed"
+      }
+    }
+  ],
+  "data": {
+    "data": "ok"
+  }
+}
